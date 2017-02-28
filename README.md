@@ -46,6 +46,9 @@ YOUR PAPER'S ABSTRACT GOES HERE
 
 
 ### How to regenerate this repository
+# reference files from https://www.mothur.org/MiSeqDevelopmentData/HMP_MOCK.fasta
+# raw data from https://www.mothur.org/MiSeqDevelopmentData/StabilityWMetaG.tar
+
 
 #### Dependencies and locations
 * Gnu Make should be located in the user's PATH
